@@ -1,0 +1,2 @@
+# Pyruz
+ The game is a Metroidvania-style adventure game that follows the story of Pyruz, a newborn cheetah who is facing extinction. Players will journey through 10 levels as Pyruz, following the guidance and mentorship of the Keeper, who becomes his friend and companion. The game is set in a trashy imaginary country and Pyruz needs to avoid humans, but his instinct always holds onto hope because of the Keeper.
